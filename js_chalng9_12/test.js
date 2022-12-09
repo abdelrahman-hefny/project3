@@ -1,0 +1,2 @@
+var title = "<h3 style='display:inline';>Elzero</h3>" , desc = "<p >elzero web school</p>" , date = "<span style='display:inline>25/20</span>" ;
+document.write(`<h3 style='display:inline'>hello</h3> ${title} ${desc} ${date}`)
